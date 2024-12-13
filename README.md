@@ -7,3 +7,7 @@ Basically, we have taken 320 locations weather data, specially from Far-Western 
 14 features are extracted for each locations (or landmarks) and 3 features are for the forecast. 
 
 This is a node-level task in the graph.
+
+# Model Architecture
+
+![Uploading Network Diagram.drawio.png…]()
