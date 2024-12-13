@@ -9,5 +9,4 @@ Basically, we have taken 320 locations weather data, specially from Far-Western 
 This is a node-level task in the graph.
 
 # Model Architecture
-
-![Uploading Network Diagram.drawio.png…]()
+![Network Diagram drawio](https://github.com/user-attachments/assets/69e56b33-6857-4902-8534-3b31f28b5451)
